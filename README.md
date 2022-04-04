@@ -19,15 +19,15 @@
 
 
 2. create.sh ========>. This is used to create the files for AIOP paradigm
- This script is used to create multiple Programming Language files with just One command.
-  b Like if I want to create a helloworld file, for AIOP, 
+ This script is used to create Multiple Programming Language files with just One command. 
+ Like if I want to create a helloworld file, for AIOP, 
    Then I have to create multiple files since we use many different languages in our AIO paradigm, so to 
    SOLVE THIS PROBLEM WE CREATED =========> create.sh
    
    This script asks for the file name and create multiple versions of it for every AIOP language mentioned.
 
 ```
-       ===================ENTER FILENAME===========================
+       ===================ENTER FILENAME================
        $helloWorld  #input the name of the file
        
        $Creating Files
