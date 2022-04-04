@@ -6,6 +6,8 @@
 
 #files included in this repo
 1. install.sh =======> This is used to create a preferred environment for AIOP,
+
+```
  This script has got SHELL GUI which you can use to 
     =============OPTIONS for install.sh===================
     a) Check Installed Languages.
@@ -13,6 +15,9 @@
     c) Remove Languages
     d) Reinstall Languages.
   
+```
+
+
 2. create.sh ========>. This is used to create the files for AIOP paradigm
  This script is used to create multiple Programming Language files with just One command.
   b Like if I want to create a helloworld file, for AIOP, 
@@ -20,6 +25,8 @@
    SOLVE THIS PROBLEM WE CREATED =========> create.sh
    
    This script asks for the file name and create multiple versions of it for every AIOP language mentioned.
+
+```
        ===================ENTER FILENAME===========================
        $helloWorld  #input the name of the file
        
@@ -32,7 +39,7 @@
        $Files Created Succefully !!!!!!!!!!
        <and a sound 🫠> 
        
-       
+   ```    
         
 
 3. run.sh ==========> This is used to run the files created by create.sh, 
