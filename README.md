@@ -38,10 +38,14 @@
 3. run.sh ==========> This is used to run the files created by create.sh, 
      =====================Enter the FILENAME to ENTER=========================
      
-     $hellWorld
-     
+
+     $hellWorld     #Input the name of the file to be executed
      $Executing helloWorld.c
      $helloWorld from C
+     $helloWorld from Java
+     $helloWorld from Python
+     $helloWorld from JavaScript 
+     $helloWorld from Swift
 
 
 
